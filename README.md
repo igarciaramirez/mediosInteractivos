@@ -5,5 +5,4 @@ Ejercicios de la clase diseño en medios interactivos de Isabel García Ramírez
 3. [Flipbook](https://igarciaramirez.github.io/mediosInteractivos/03)
 4. [Herramienta de Dibujo](https://igarciaramirez.github.io/mediosInteractivos/04)
 5. [Reloj](https://igarciaramirez.github.io/mediosInteractivos/05)
-6. [Video Musical](https://igarciaramirez.github.io/mediosInteractivos/06)
-7. [VIDEO.1]((https://igarciaramirez.github.io/mediosInteractivos/6.1)
+6. [Video Musical](https://editor.p5js.org/IsabelGarciaR/sketches/H12M1LbYQ)
